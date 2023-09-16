@@ -1,0 +1,7 @@
+## Interface: 100107
+## Title: AddMedia
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Init.lua 
