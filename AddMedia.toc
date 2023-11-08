@@ -1,6 +1,9 @@
-## Interface: 100107
 ## Title: AddMedia
-
+## Name: AddMedia
+## Notes: Adding some Media
+## Author: cygnus404
+## Version: 10.2-1
+## Interface: 100200
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 embeds.xml
